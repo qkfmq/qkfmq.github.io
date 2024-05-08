@@ -51,13 +51,15 @@ input:focus{
     background-color: orangered;
 }
 
-div{
+div.main{
     width: 200px;
     height: 50px;
     background-color: #dddddd;
     text-align: center;
-    border: blue solid 2px;
+    border: blue dotted 2px; /* inset과 outset을 쓸려면 border-radius: 10px을 지워야 된다. */
     border-radius: 10px;
+    margin: 10px 50px 20px 30px;
+    padding: 5px 2px;
 
 }
 
@@ -74,4 +76,5 @@ div#sub_btn:hover button{
 
 button{
     font-style: italic;
+    margin: 10px;
 }
