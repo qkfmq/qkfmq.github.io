@@ -1,5 +1,5 @@
 ---
-title: 순위
+title: about
 layout: post
 permalink: /about/
 ---

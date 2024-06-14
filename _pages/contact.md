@@ -1,5 +1,5 @@
 ---
-title: 경기 일정
+title: contact
 layout: post
 permalink: /contact/
 ---
