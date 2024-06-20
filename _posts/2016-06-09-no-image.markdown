@@ -5,13 +5,13 @@ description: |
  창단 :2003년<br>
  연고지 :인천광역시<br>
  K리그1 소속의 프로 축구단<br>
- 우승 경력<br>
+ 주요 성과<br>
  K리그 준우승 (2005)<br>
  FA컵 준우승(2015)<br>
- 유명 선수 : 임중용, 정혁, 무고사 등
+ 인천 출신 유명 선수: 임중용, 오반석, 무고사 등
 
 img: image-8.jpg
-color: FF6F00
+color:  '000080'
 
 ---
 <html> <head> <title>인천 유나이티드 정보</title> <style> .
