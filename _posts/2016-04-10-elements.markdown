@@ -1,60 +1,92 @@
 ---
 layout: post
-title:  "Elements"
-description: Sed laoreet purus vitae diam rutrum porttitor. Sed ipsum lectus, finibus at venenatis congue, condimentum vel lorem. Maecenas ac sodales tellus. Proin placerat aliquam feugiat.
-categories: jekyll update
+title:  "인천 유나이티드"
+description: |
+ 창단 :2003년<br>
+ 연고지 :인천광역시<br>
+ K리그1 소속의 프로 축구단<br>
+ 우승 경력<br>
+ 2005년 K리그 준우승과 2015년 FA컵 준우승<br>
+ 유명 선수 : 임중용, 정혁, 무고사 등
+
 img: image-8.jpg
 color: FF6F00
-author: webjeda
+
 ---
-
-### Heading
-
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-
-{% highlight html %}
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-{% endhighlight %}
-
-### Blockquote
-<blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-  <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
-</blockquote>
-
-{% highlight html %}
-<blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-  <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
-</blockquote>
-{% endhighlight %}
-
-
-## Table
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-{: .table .table-striped .table-hover}
-
-{% highlight markdown %}
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-{: .table .table-striped .table-hover}
-{% endhighlight %}
+<html> <head> <title>인천 유나이티드 정보</title> <style> .
+player-info { display: flex; align-items: center; margin-bottom: 20px; } .player-info img { width: 150px; height: 150px; margin-right: 20px; } .player-info h3 { font-size: 24px; margin: 0; } .player-info p { font-size: 16px; margin: 5px 0; } h1{
+      font-size: 25px;
+    }
+    h5 {
+    font-size: 24px; /* 폰트 크기 24px로 변경 */
+    }</style>
+    <h1>1.비전 및목표</h1><br>
+   1-1. 인천유나이티드는 '열정, 도전, 혁신'을 핵심 가치로 삼고 있습니다.<br>
+   1-2. 특히 젊은 선수들의 육성과 발전에 힘쓰며, 지역사회와 함께 성장하는 구단이 되고자 합니다.<br>
+   1-3. 선수와 팬, 지역사회가 함께 어우러지는 '열린 구단'을 지향하며, 지역 밀착형 활동을 통해 팬들과의 유대감을 강화하고 있습니다.<br>
+   1-4. 팬과 지역사회에 기쁨을 주고 스포츠 문화를 선도하는 클럽 되고자 합니다.<br>
+    <h1>2.라이벌 매치</h1><br>
+    <h1>2-1.서울 - 인경전</h1> <br>
+    경인 더비란 서울특별시를 연고로 하는 FC 서울과 인천광역시를 연고로 하는 인천 유나이티드 FC 간의 경기를 이르는 말양 팀 서포터즈 충돌은 슈퍼매치, 동해안 더비와 비교될 정도이다. <br>
+    경인 더비는 제발 내 눈에서 사라져라라는 생각으로 다투며 최근에 펼쳐진 경기에서 전반 종료 직전 제르소가 최준의 무리한 수비로 인해 넘어지고 이에 보복으로 완전히 밀치면서 레드카드로 퇴장당하면서 분위기가 더욱 격해지기 시작했으며, 특히 이 퇴장이 기점이 되어 전반까지 1-0이었던 스코어가 1-2로 뒤집히면서 경기가 서울의 역전승으로 끝났다.서울의 골키퍼 백종범이 인천의 마지막 코너킥을 수비해낸 직후 경기 종료 휘슬이 울리자, 인천 서포터즈들이 있는 골대 바로 뒤편 S석의 인천 서포터즈들을 향해 포효하며 양손을 흔드는 등 세리머니를 해 관중을 흥분시키긴 했지만,이 세리머니를 본 인천 서포터 한 명이 머플러를 던진 순간 S석의 인천 서포터즈들이 동시다발적으로 수많은 물병을 투척했다.<br>
+    <h1>2-2.수원 - 수인선더비</h1> <br>
+    수원 삼성 블루윙즈 또는 수원 FC와 인천 유나이티드와 간의 더비. 지하철 노선인 수인선을 기반으로 한 더비다.<br>
+    특히, 수원 삼성 블루윙즈와 인천 유나이티드의 경우 양팀 서포터즈간의 경쟁의식도 크다. 인천의 창단 초기 시절부터 수원 삼성과는 치열한 라이벌 의식이 존재한다.
+    2007년 수원 삼성의 외국인 포워드인 에두는 인천 유나이티드의 센터백 임중용에게 침뱉기로 논란을 일으켰다. 2007년 9월 22일 인천문학경기장에서 열린 수원과의 리그 경기에서 에두가 발을 들어서 임중용에게 가격을 했는데 이에 화가 난 임중용이 밀쳤고 에두는 침을 뱉었던 사건이다.  
+</head> <body> <header>
+<h1>3.경기장 : 인천축구전용경기장 (2012~ / 18,989석)</h1>
+<img src="https://i.namu.wiki/i/QcZzsmmyJTUKsb7GUBjwBPZnwZbHOhn2hili3n5fGjwuMZ2HEVqR_LoGl4_lCGH8jqtokyOvyUn-M8qvIFqWg9r-huVtYbatOxzRLqXLPnnB1lYoqCHTXX65OV3tTTzcfB1FvQvVjXex6wik8agO5Q.webp">
+</header>
+<main>
+    <section>
+      <h2>4.Key Players</h2>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/GqAyo5i7snrqCks07DboMu4h5PQcWu2iDqzctx8Tx25yR1Rk6dbhAKB3XdSGObPn49TQ3KGIKbMc8QwxPm_8IFNWhx3GLXEmcJZfP9TJl66KX7i-9YBZgw5V-hJ8zXZKj9c6eReAlS0IuYLjPClWyA.webp"
+          alt="Player 1">
+        <div>
+          <h3>이명주(주장)( Lee Myung-Joo) (No. 5)</h3> <p>1991년 9월 25일 (32세) <br> 포지션 : 중앙 미드필더, 수비형 미드필더, 공격형 미드필더</p> 
+          <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
+          <p>포항 스틸러스 K리그1: 2013</p>
+          <p>포항 스틸러스 FA컵: 2012, 2013</p>
+          <p>알 아인 FC 아라비안 걸프 리그: 2014-15</p>
+          <p>아산 무궁화 FC K리그2: 2018</p>
+          <p>대한민국 축구 국가대표팀 AFC 아시안컵 준우승: 2015</p> 
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p> 
+          <p>K리그1 영플레이어상 : 2012</p> 
+          <p>K리그1 베스트 XI: 2013</p> 
+        </div>
+      </div>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/dz5Z6GvktfZ5iYv6VejChLp11R5Mn5SlGNnhICvE_RQT7FS6k2ngmsqrMlLqgoMK-qp3oBTO3k2Nl2WRcoe_KkhCneBjJxx7UKyPQBElSmvzzkGCG-AqiANrRpO8tOrEHSjGDFJ-iSonD7WhqYDZNA.webp">
+        <div>
+          <h3>무고사(Stefan Mugoša) (No. 9)</h3> <p>1992년 2월 26일 (32세) <br> 포지션 :스트라이커</p>
+          <p><strong style="font-size: 1.2em;">대회기록</strong></p> 
+          <p>FK 부두치노스트 포드고리차 (2011~2013) : 몬테네그로 퍼스트 리그: 2011-12</p> 
+          <p>몬테네그로 컵: 2012-13</p> 
+          <p>FC 셰리프 티라스폴 (2017~2018) : 디비지아 나치오날러: 2017</p> 
+          <p>비셀 고베 (2022~2023) : J1리그: 2023</p>
+          <p><strong style="font-size: 1.2em;">개인수상</strong></p> 
+          <p>몬테네그로 퍼스트 리그 득점왕: 2013-14</p> 
+          <p>몬테네그로 축구 협회 올해의 선수 4인: 2018</p> 
+          <p>몬테네그로 축구 협회 올해의 선수: 2019, 2020</p> 
+          <p>K리그1 이달의 선수상: 2020.9, 2022.2-3, 2022.4</p>  
+        </div>
+      </div>
+    </section>
+    <section>
+      <h2>5.Key Players move</h2>
+      <h4>
+      <h3>1.이명주(주장)(Lee Myung-Joo) (No. 5)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/EWPTonaDdAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>2.무고사(Stefan Mugoša) (No. 9)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/wlr_p3sUT24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </h4> 
+    </section>
+    <section>
+      <h5>6.Match Highlights</h5>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5N31tgrNTfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+  </main>
+</body>
+</html>
 

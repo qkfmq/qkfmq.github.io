@@ -1,27 +1,101 @@
 ---
 layout: post
-title:  "Usage Guide"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-categories: jekyll update
+title:  "광주"
+description: |
+ 창단 :2010년<br>
+ 연고 :광주광역시<br>
+ K리그1 소속의 프로 축구단<br>
+ 우승 경력<br>
+ K리그2(2회 / 최다 우승)2019, 2022<br>
+ 유명 선수 : 엄원상, 나상호, 정조국 등 
 img: image-7.jpg
-categories: two
 color: 37474F
-author: webjeda
+
 ---
-
-Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
-
-## Image
-
-- Use 2 sizes of the same image. Keep the smaller one in ``images`` folder and the bigger one in ``images-hq`` folder.
-- Make sure that both images have same name and extension.
-- Mention image name in the front matter as shown below
-
-{% highlight yml %}
----
-layout: post
-title:  "Some title"
-categories: some category
-img: image-name.jpg
----
-{% endhighlight %}
+<html>
+<head>
+  <title>Hyundai Motors Jeonbuk</title>
+  <style>
+    .player-info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .player-info img {
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+    }
+    .player-info h3 {
+      font-size: 24px;
+      margin: 0;
+    }
+    .player-info p {
+      font-size: 16px;
+      margin: 5px 0;
+    }
+    h1{
+      font-size: 25px;
+    }
+  </style>
+  <h1>1.비전 및 목표</h1><br>
+   1-1. 구단은 "ONE TEAM"이라는 구호 아래 팀과 시민들의 화합을 중요하게 여기고 있습니다.  <br>
+   1-2. 광주 FC는 "4대 전략"을 수립하여 조직 개편, 재정 안정화 등을 추진하고 있습니다. <br>
+   1-3. 특히 시민들의 세금으로 운영되는 구단인 만큼 안정적인 팀 운영을 목표로 두고 있습니다.<br><br>
+   <h1>2.라이벌 매치</h1><br>
+    2-1.대구 - 달빛 더비<br>
+    영남과 호남을 대표하는 두 광역시를 연고지로 하는 대구 FC와 광주 FC의 라이벌리<br>
+    2012년에 대구는 광주를 상대로 네 경기 무패 행진을 달렸다. 특히 마지막 맞대결에서는 광주가 무조건 대구를 상대로 승리해야 1부 잔류에 희망을 얻을 수 있던 상황이었는데 광주는 대구를 상대로 그 당시까지만 해도 단 한 번도 지지 않았다 보니 광주의 잔류가 유력해 보였다. 광주에게 K리그 최초의 강등팀이라는 불명예를 넘겼다.
+    이때부터 광주광역시와 대구광역시에서 대구의 옛이름 달구벌의 달과 광주의 옛이름 빛고을의 빛을 따와 달빛 동맹이라는 명칭을 자주 사용하다 보니 광주와 대구 간의 더비 명칭도 달빛 더비로 굳어졌다.<br>
+</head>
+<body>
+  <header>
+    <h1>2.경기장 : 광주축구전용구장 (2020~ / 10,007석)</h1>
+    <img src="https://i.namu.wiki/i/9CUzS8HCJDrRJzlyHuh3J2FGaoy5bwJ7EBmh7s1QRNtQadHcdNyqXkaM1TpcfoK_5PEUd_4q850kbDfJtOltldfgt3xls_QfrfHIzgAHUQq2FzpoG_BhqqGK_CUG2NMLR9Q6ZMdZibgp1NVGvo_sZw.webp">
+  </header>
+  <main>
+    <section>
+      <h2>3.Key Players</h2>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/YHZFykxNTM4Jf6wwVFTLws0uLrTn-5Byy6ZJ3t1epbJQ2a3LLwTDTc8Gcmg1Hw82ClNl_96ERaHgjd9hZmY5SHgPp3x4vx5V9BtYieZbqoyNinhwOXG40-EVcNetxsZGtio_CjN16EjgTUM7tL0IrQ.webp"
+          alt="Player 1">
+        <div>
+          <h3>안영규(주장)(Ahn Young-Gyu) (No. 6)</h3> <p>1989년 12월 4일 (34세) <br> 포지션 : 중앙 수비</p>
+          <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
+          <p>광주 FC K리그2: 2022</p>
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
+          <p>광주 FC: K리그2 베스트11</p>
+          <p>k리그2 MVP</p>
+        </div>
+      </div>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/E74ZoJBtA6Sbaym0r4dpxjTQxW33Uj0DxvWM2VNdftbjSbjAHwjZ2ryF18aVLDTh-2rA-2PzkwM0tqwLFhbHzmzlQQ5LuRDclAcsIvWUrUT5x95ixgV9GJLOcs4H3TRIoDuTqgLlWfNpalqvyoRjDQ.webp">
+        <div>
+          <h3>엄지성(Eom Ji-sung) (No. 7)</h3> <p>2002년 5월 9일 (22세) <br> 포지션 : 윙어, 세컨드 스트라이커, 공격형 미드필더</p>
+          <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
+          <p>광주 FC (2021~ ) K리그2: 2022</p>
+          <p>WAFF U-23 챔피언십: 2024</p>
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
+          <p>K리그 이달의 영플레이어상: 2021.08, 2023.08</p>
+          <p>K리그2 영플레이어상: 2022</p>
+          <p>K리그2 베스트11: 2022</p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <h2>4.Key Players move</h2>
+      <h4>
+      <h3>1.안영규(주장)(Ahn Young-Gyu) (No. 6)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_h4t60jPWLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>2.엄지성(Moon Seon-min) (No. 11)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ShLVlx6RSIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </h4> 
+    </section>
+    <section>
+      <h5>Match Highlights</h5>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/k7xesiMuAhw" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+  </main>
+</body>
+</html>

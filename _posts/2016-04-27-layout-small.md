@@ -1,30 +1,97 @@
 ---
 layout: post
-title:  "Small Layout"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
+title:  "대전하나 시티즌"
+description:  |
+ 창단: 1997년<br>
+ 연고: 대전광역시<br>
+ K리그1 소속의 프로 축구단이다.<br>
+ 주요 성과<br>
+ K리그2(1회)2014<br>
+ 코리아컵(1회)2001<br>
+ 유명 선수 : 배준호, 황인범, 주세종 등
+
 img: image-l.jpg
-categories: [one, two]
-color: 4CAF50
-author: webjeda
-permalink: /small/
-width: small
+color: ff1744 
+
 ---
-There are 3 types of layouts available for posts and pages. A page can be set to small width by adding front matter ``small`` as shown.
-
-{% highlight yml %}
----
-layout: post
-title:  "Small Layout"
-width: small
----
-{% endhighlight %}
-
-The page width will be 600px.
-
-*This option is only available on full version.
-
-<style>
-.page-container {max-width: 600px}
-</style>
+<html>
+<head>
+  <title>Hyundai Motors Jeonbuk</title>
+  <style>
+    .player-info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .player-info img {
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+    }
+    .player-info h3 {
+      font-size: 24px;
+      margin: 0;
+    }
+    .player-info p {
+      font-size: 16px;
+      margin: 5px 0;
+    }
+    h1{
+      font-size: 25px;
+    }
+  </style>
+</head>
+<h1>1.비전 및 목표</h1><br>
+   1-1. 대전 하나 시티즌은 "비전 2025"를 수립하여 K리그1 우승, ACL 참가 등의 목표를 세웠습니다. <br>
+   1-2. 목표를 위해 공격과 수비 라인업을 강화하는 등 새로운 도전을 준비하고 있습니다.<br>
+   1-3. "글로벌 명문 구단"으로 도약하기 위해 노력하며, 팬들로부터 사랑받는 구단이 되고자 합니다.<br><br>
+<body>
+  <header>
+    <h1>2.경기장:  대전 월드컵 경기장(2002~/34,276석)</h1>
+    <img src="https://i.namu.wiki/i/-f0HBQDNf-QBJtJl8g5EWjTvfyvMH98J04WvJZrFviw_A153EvM4JwIb1VCIzFbZqAad1yqGlk5Af0kHf1UgxAF4Bj0pVXJigVCmzMvvULH3uEtHnIMrrUf5g_1kl7d09HwVw0odvrkM9P93KzBJ5g.webp">
+  </header>
+  <main>
+    <section>
+      <h2>3.Key Players</h2>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/tL4syDcQq5vo1PLyOZaQujcAQgqTrLp_YlT7akyjIbzYCQ01eFtgUx0Vojt80AwMt2d0blAe_7FKcrsAU72bYmWF1HWphDPuW0Qamj3c4S9V0kD6GW0SzJPXs4iM2zplmQw1z3MXFu6Yi-QmjxdYOQ.webp"
+          alt="Player 1">
+        <div>
+          <h3>이순민(주장)(Kim Jin-su)(주장) (No. 44)</h3> <p>1994년 5월 22일(30세)<br> 포지션:중앙 미드필더, 수비형 미드필더, 라이트백, 센터백</p>
+          <p><strong style="font-size: 1.2em;">우승경력</strong></p>
+          <p>광주 FC (2017~2023) K리그2: 2022</p> 
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p> 
+          <p>K리그2 베스트11: 2022</p> 
+          <p>K리그1 베스트11: 2023</p> 
+        </div>
+      </div>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/BGPOG-aft1YoU2QdLXGqMycamHg6HcmxbpFtfNP03U9zgk0yrFymLtptXfd8y1f7FBQ5bv1jSkBLfgKYb8Akag9O8U9LD8jDz5TrMGxSpLonUnXJoMz6fzfhH2yk9AL8etBQHuuI5oejgTKQLkeQhQ.webp">
+        <div>
+          <h3>이창근(부주장)(Moon Seon-min) (No. 1)</h3> <p>1993년 8월 30일 (30세)<br> 포지션 : 골키퍼</p>
+          <p><strong style="font-size: 1.2em;">국가대표경력</strong></p> 
+          <p>대한민국 U-20 축구 국가대표팀</p>
+          <p>2013 FIFA U-20 월드컵 터키</p>
+          <p>대한민국 U-23 축구 국가대표팀</p>
+          <p>2016 AFC U-23 챔피언십 카타르</p>
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p> 
+          <p>PLAYER OF THE YEAR 베스트11 선정</p> 
+        </div>
+      </div>
+    </section>
+    <section>
+      <h2>4.Key Players move</h2>
+      <h4>
+      <h3>1.이순민(주장)(Kim Jin-su) (No. 44)</h3>
+      <iframe width="560" height="315" src=" https://www.youtube.com/embed/YEPfXUTsRCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>2.이창근(부주장)(Moon Seon-min) (No. 1)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fbpEqb8RyqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </h4> 
+    </section>
+    <section>
+      <h5>5.Match Highlights</h5>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PB5PCFCenRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+  </main>
+  </body>
+</html>

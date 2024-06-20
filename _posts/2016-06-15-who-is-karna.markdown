@@ -1,19 +1,22 @@
 ---
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
+title:  "K리그"
+description: |
+ 영문: K LEAGUE<br>
+ 우승구단<br>
+ k리그1 전북 현대 모터스(9회)<br>
+ K리그1 5회 우승(1986, 1988, 1992, 2007, 2013)<br>
+ 코리아컵 5회 최다 우승(1996, 2008, 2012, 2013, 2023)<br>
+ AFC 챔피언스 리그 3회 우승(1996-97, 1997-98, 2009)<br>
+ 출신 : 이동국,조규성,이재성, 김민재 등
 img: karna.jpg
-categories: [one, two]
 color: 1976D2
-author: webjeda
+
 ---
-Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
+한국프로축구연맹 산하의 대한민국 최상위 프로축구 리그다. 1983년 슈퍼리그라는 명칭으로 출범하여 현재에 이르고 있으며, 현재까지 ACLE 최다 우승 기록을 보유한 리그이다. 국내 일부 언론에서는 K리그를 아시아 최초의 프로축구 리그로 보도하기도 하였지만
+012년 승강제를 도입하고 2013년 2부 리그를 창설하면서 1부 리그 K리그1과 2부 리그 K리그2의 2개 디비전을 보유하게 되었다.[3] 이로 인해, 넓은 의미의 K리그는 두 개의 리그를 포괄하여, 한국 프로축구 리그 전체를 가리키고 있다.
+K리그는 1부 12개 구단, 2부 13개 구단 총 25개 구단이 리그에 참가하고 있으며, 현재 한국에서 프로 리그가 시행되는 종목 중 가장 많은 수의 구단이 참가하고 있는 리그다.
 
 Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
 
-![Karna]({{site.baseurl}}/images/karna-2.jpg)
 
-
-Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 

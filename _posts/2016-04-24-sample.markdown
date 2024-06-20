@@ -1,22 +1,102 @@
 ---
 layout: post
-title:  "Sample post"
-description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas imperdiet magna quam, pulvinar vulputate odio rutrum at. Praesent quis lorem volutpat, interdum est quis, luctus ligula.
-categories: jekyll update
+title:  "FC 서울"
+description:  |
+ 창단 :1983년<br> 
+ 연고 :대한민국 수도 서울특별시<br> 
+ K리그1 소속의 프로 축구단<br>
+ 대한민국 프로 스포츠 단일 경기 역대 최다 관중 기록과 K리그 단일 시즌 역대 최다 승점 기록을 보유<br>
+ 주요 성과<br>
+ K리그1 6회 우승(1985, 1990, 2000, 2010, 2012, 2016)<br>
+ FA컵 2회 우승(1998, 2015)<br>
+ 리그컵 2회 우승(2006, 2010)<br>
+ 유명 선수 : 기성용, 고요한, 차두리 등
+
+
 img: image-9.jpg
-categories: one
 color: ff1744 
-author: webjeda
+
 ---
 
-Nulla vel ante sit amet leo imperdiet porta. Mauris pellentesque finibus ligula non dignissim. Sed sed vehicula velit. Ut eleifend velit maximus massa lobortis mattis. In dui quam, rutrum eu purus et, mattis consequat ex. Vivamus risus mauris, ultricies vel dolor eget, aliquet tristique est.
-
-Suspendisse odio urna, vehicula vel diam at, pulvinar porttitor metus. Sed ac ipsum et magna aliquam mattis in eleifend mi. Pellentesque porttitor diam nec hendrerit efficitur. In hac habitasse platea dictumst. Nam arcu enim, imperdiet quis molestie molestie, molestie non diam. 
-
-Quisque pretium felis in lorem placerat rhoncus eu et lorem. Praesent tincidunt purus sed mi lacinia maximus. Curabitur rutrum tempus posuere. Donec quis fringilla enim. Nullam nisl nisl, vestibulum sed enim vel, tempor pulvinar ligula.
-
-Mauris tincidunt ligula et erat ullamcorper varius. Nunc sit amet lacus ullamcorper, suscipit sem in, interdum dui. Nam ultricies, dui eget aliquet mollis, erat ipsum luctus eros, sed pulvinar nulla velit ut nibh. Mauris sed molestie turpis. Curabitur vehicula eros lectus, ac venenatis justo fringilla eget. Phasellus fringilla molestie diam vel aliquet. 
-
-Nunc orci lorem, laoreet eget blandit nec, vestibulum eu urna. Ut gravida egestas massa, in auctor nisl iaculis id. In hac habitasse platea dictumst. Fusce nec massa ullamcorper, posuere nisl et, feugiat risus. Morbi metus risus, facilisis aliquam risus porta, volutpat viverra leo. 
-
-Praesent vestibulum, orci in consectetur aliquet, lacus metus suscipit risus, a dignissim eros nibh sed purus. Nullam in magna non nulla ultricies aliquam. Nullam malesuada rhoncus est, in vehicula lacus mattis vel. Nam et velit dignissim, consectetur est ac, imperdiet nulla. Nunc feugiat facilisis ipsum, quis porttitor quam mattis in.
+<html> <head> <title>Hyundai Motors Jeonbuk</title> <style> .
+player-info { display: flex; align-items: center; margin-bottom: 20px; } .player-info img { width: 150px; height: 150px; margin-right: 20px; } .player-info h3 { font-size: 24px; margin: 0; } .player-info p { font-size: 16px; margin: 5px 0; }
+ h1{
+      font-size: 25px;
+    }</style>
+    <h1>1.비전 및목표</h1><br>
+   1-1. 구단 비전인 "Soul of Seoul"을 바탕으로 서울 시민들과 함께 성장하는 구단이 되고자 합니다.<br>
+   1-2. FC 서울은 K리그 정상을 목표로 하며, 특히 젊은 선수들의 육성과 발전에 힘쓰고 있습니다.<br>
+   1-3. FC 서울은 정기적으로 팬 사인회, 팬미팅, 유소년 축구교실 등 다양한 팬 참여 행사를 개최하고 있습니다.<br><br>
+   <h1>2.라이벌 매치</h1><br>
+    1-1.수원 - 슈퍼매치 <br>
+    슈퍼매치는 대한민국에서 가장 치열한 축구 더비 매치인 FC 서울과 수원 삼성 블루윙즈 간의 경기를 일컫는 용어다.<br>
+    2003년수원 삼성 서포터가 경기장 내 플래카드에 불을 지른 방화 범죄 사건과 수원 삼성에서 뛰던 안정환이 관중석으로 뛰어올라 FC서울 팬과 충돌한 사건 등이 대표적이다.<br> 
+    1-2.인천 - 경인 더비 <br>
+    경인 더비란 서울특별시를 연고로 하는 FC 서울과 인천광역시를 연고로 하는 인천 유나이티드 FC 간의 경기를 이르는 말양 팀 서포터즈 충돌은 슈퍼매치, 동해안 더비와 비교될 정도이다. <br>
+    경인 더비는 제발 내 눈에서 사라져라라는 생각으로 다툰다. 최근에 펼쳐진 경기에서 전반 종료 직전 제르소가 최준의 무리한 수비로 인해 넘어지고 이에 보복으로 완전히 밀치면서 레드카드로 퇴장당하면서 분위기가 더욱 격해지기 시작했으며, 특히 이 퇴장이 기점이 되어 전반까지 1-0이었던 스코어가 1-2로 뒤집히면서 경기가 서울의 역전승으로 끝났다.서울의 골키퍼 백종범이 인천의 마지막 코너킥을 수비해낸 직후 경기 종료 휘슬이 울리자, 인천 서포터즈들이 있는 골대 바로 뒤편 S석의 인천 서포터즈들을 향해 포효하며 양손을 흔드는 등 세리머니를 해 관중을 흥분시키긴 했지만,이 세리머니를 본 인천 서포터 한 명이 머플러를 던진 순간 S석의 인천 서포터즈들이 동시다발적으로 수많은 물병을 투척했다.<br>  
+    1-3전북 - 전설매치<br>
+    FC 서울의 연고지인 서울과 전북 현대의 홈 경기장이 있는 전주의 지리적인 거리가 먼데도 불구하고, 두 팀 팬 간의 대립 감정은 깊다. <br> 스플릿 라운드의 최종전이 챔피언 결정전이 되어버린 2016 시즌 K리그 클래식 38라운드 전북 홈 경기였다. 대망의 최종전, 정규 라운드 동안 전북을 단 한 번도 이기지 못했던 서울이 결국 전북을 상대로 승리하며 시즌 첫 승과 함께 역전 우승을 동시에 기록하는 드라마를 써내며 전북에게 비수를 꽂았다.
+</head>
+<body>
+  <header>
+    <h1>3.경기장: 서울 월드컵 경기장(2002~/34,276석)</h1>
+    <img src="https://i.namu.wiki/i/NUXrcvlfzJSXMMIWo9_SVhqKqHYk9udJVOjyAASkOPLtLgVW1e_sIi3jHgRT14JuhRlq6rSTH5sfN5-K_oR6BmkzQ21sSP7v7HE03qQgB85jdPPj277SsOQ3E0uH44WhHZ4l4W-eYi22PDlQ3CeEmg.webp">
+  </header>
+  <main>
+    <section>
+      <h2>4.Key Players</h2>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/FTe_903qZ33ax-uHiHBgOcsifTcbKfGQsz9jnad8XXxusoUHKKJKugVD702xskF1s-uVDFh7K7pUMq6_vx07DwQWjcQMr7UTkGV77uWFduGX3D96qdu7Z-ck9exzk3t1MSuIbSTsA3Nh-eyJZq6J4A.webp"
+          alt="Player 1">
+        <div>
+          <h3>기성용(주장)(Kim Jin-su) (No. 6)</h3> <p>1989년 1월 24일 (35세)<br>포지션 : 미드필더 </p> 
+          <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
+          <p>셀틱 FC (2010~2012) 스코티시 프리미어 리그: 2011-12</p>
+          <p>스코티시컵: 2010-11</p>
+          <p>스완지 시티 AFC (2012~2018) 풋볼 리그컵: 2012-13</p>
+          <p>대한민국 축구 국가대표팀 AFC 아시안컵 준우승: 2015</p>
+          <p>대한민국 U-23 축구 국가대표팀 올림픽 동메달: 2012</p> 
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p> 
+          <p>도요타컵 MVP: 2004</p> 
+          <p>K리그 베스트 XI: 2008, 2009</p> 
+          <p>K리거들이 뽑은 최고의 K리거: 2009</p>
+          <p>AFC 아시아 올해의 신인 선수: 2009</p>
+          <p>스코티시 프리미어 리그 이달의 영플레이어: 2010.10</p>
+          <p>스코티시컵 결승전 맨 오브 더 매치: 2011</p>
+          <p>KFA 올해의 선수: 2011, 2012, 2016</p> 
+          <p>스완지 시티 AFC 이달의 선수: 2014년 12월</p>
+          <p>AFC 아시안컵 토너먼트의 팀: 2015 </p> 
+          <p>스완지 시티 AFC 올해의 선수: 2014-15 </p> 
+          <p>K리그 이달의 선수상: 2021년 3월</p> 
+          <p>FIFPro 메리트 어워드: 2022 </p>
+        </div>
+      </div>
+      <div class="player-info">
+        <img src="https://i.namu.wiki/i/RvrgWA68Fcu-nHAHcneVqi2PQ8rD2CZWhx8svVKBmcLUQpSvZphCGwFHR76EaZgbM3hGSBnjjBjLmQaWpceZ5aBYDfz2IdZwZRwVKnz1DM6KJoVqTCh6TJd5ho9o3RjWpKNSUGlrxJjJCesAUOhgZg.webp">
+        <div>
+          <h3>린가드(Jesse Lingard) (No. 10)</h3> <p>1998년 12월 5일 (25세), 포지션 : 공격형 미드필더, 윙어</p>
+          <p><strong style="font-size: 1.2em;">대회기록</strong></p> 
+          <p>맨체스터 유나이티드 FC (2011~2022) FA컵: 2015-16</p> 
+          <p>EFL컵: 2016-17</p> 
+          <p>FA 커뮤니티 실드: 2016</p> 
+          <p>UEFA 유로파 리그: 2016-17</p>
+          <p><strong style="font-size: 1.2em;">개인수상</strong></p> 
+          <p>프리미어 리그 이달의 선수: 2021년 4월</p> 
+          <p>프리미어 리그 이달의 골: 2021년 4월</p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <h2>5.Key Players move</h2>
+      <h4>
+      <h3>1.기성용(주장)(Kim Jin-su) (No. 6)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ux3TdUDCv4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br><h3>2.린가드(Jesse Lingard) (No. 10)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/62bIgHrqlJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </h4> 
+    </section>
+    <section> <h5>6.Match Highlights</h5> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vvc_j-GRnu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </main>
+</body>
+</html>
