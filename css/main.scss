@@ -1,1 +1,58 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>404 Error - Karna</title><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700" rel="stylesheet"><link rel="stylesheet" href=/css/main.css><meta name="viewport" content="width=device-width, initial-scale=1"><title>404 Error | Karna</title><meta name="generator" content="Jekyll v4.3.3" /><meta property="og:title" content="404 Error" /><meta property="og:locale" content="en_US" /><link rel="canonical" href="http://localhost:4000/404/" /><meta property="og:url" content="http://localhost:4000/404/" /><meta property="og:site_name" content="Karna" /><meta property="og:type" content="website" /><meta name="twitter:card" content="summary" /><meta property="twitter:title" content="404 Error" /><script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebPage","headline":"404 Error","url":"http://localhost:4000/404/"}</script></head><body><header><div id="mySidenav" class="sidenav"> <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a> <a href="/"><h1 class="header-title" style="font-size: 1.5em;color: #999">K
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+// Our variables
+$base-font-family: 'Open Sans', sans-serif;
+$head-font-family: 'Open Sans', sans-serif;
+$base-font-size:   14px;
+$base-font-weight: 300;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$spacing-unit:     10px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #ea6111;
+$grey-color:       #828282;
+$highlight-color:  #eae311;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    900px;
+
+$on-palm:          600px;
+$on-laptop:        1000px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "style",
+        "custom",
+        "menu",
+        "syntax-highlighting"
+;
+
+
