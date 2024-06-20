@@ -6,7 +6,7 @@ description: |
  연고 :대구광역시<br> 
  K리그1 소속의 프로 축구단<br>
  우승경력<br>
- FA컵 우승(2018)<br>
+ FA컵 우승 (2018)<br>
  출신 : 세징야, 조현우, 홍철 등
 color: 00897B
 img: image-12.jpg
