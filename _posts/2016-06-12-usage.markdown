@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "광주"
+title:  "수원FC"
 description: |
- 창단 :2010년<br>
- 연고 :광주광역시<br>
+ 창단 :2003년<br>
+ 연고 :경기도 수원시<br> 
  K리그1 소속의 프로 축구단<br>
  우승 경력<br>
- K리그2 최다 우승:(2019, 2022)<br>
- 유명 선수 : 엄원상, 나상호, 정조국 등 
-img: image-7.jpg
-color: 37474F
+ K리그2 준우승 (2015)<br>
+ 유명 선수 : 이승우, 윤빛가람, 지동원등 
 
+img: image-5.jpg
+color: 9E9D24
 ---
 <html>
 <head>
@@ -39,61 +39,67 @@ color: 37474F
     }
   </style>
   <h1>1.비전 및 목표</h1><br>
-   1-1. 구단은 "ONE TEAM"이라는 구호 아래 팀과 시민들의 화합을 중요하게 여기고 있습니다.  <br>
-   1-2. 광주 FC는 "4대 전략"을 수립하여 조직 개편, 재정 안정화 등을 추진하고 있습니다. <br>
-   1-3. 특히 시민들의 세금으로 운영되는 구단인 만큼 안정적인 팀 운영을 목표로 두고 있습니다.<br><br>
-   <h1>2.라이벌 매치</h1><br>
-    2-1.대구 - 달빛 더비<br>
-    영남과 호남을 대표하는 두 광역시를 연고지로 하는 대구 FC와 광주 FC의 라이벌리<br>
-    2012년에 대구는 광주를 상대로 네 경기 무패 행진을 달렸다. 특히 마지막 맞대결에서는 광주가 무조건 대구를 상대로 승리해야 1부 잔류에 희망을 얻을 수 있던 상황이었는데 광주는 대구를 상대로 그 당시까지만 해도 단 한 번도 지지 않았다 보니 광주의 잔류가 유력해 보였다. 광주에게 K리그 최초의 강등팀이라는 불명예를 넘겼다.
-    이때부터 광주광역시와 대구광역시에서 대구의 옛이름 달구벌의 달과 광주의 옛이름 빛고을의 빛을 따와 달빛 동맹이라는 명칭을 자주 사용하다 보니 광주와 대구 간의 더비 명칭도 달빛 더비로 굳어졌다.<br>
+   1-1. 수원 FC는 자체적인 인재 육성을 위해 클럽하우스 건립과 B팀 운영에 대해 목표로 하고 있습니다.  <br>
+   1-2. 축구 경기 외에도 다양한 지역사회공헌 활동을 통해 수원시민들의 건강한 스포츠 문화 형성에 기여 목표를 하고 있습니다.   <br>
+   1-3. 무료 티켓 축소 및 클럽 후원제도 도입 등 재정적 안정화를 위한 노력도 병행하고 있습니다.<br><br>
+    <h1>2.라이벌 매치</h1><br>
+    수원 - 수원 더비<br>
+    K리그의 수원 삼성 블루윙즈(팔달구)와 수원 FC(장안구) 간의 경기를 일컫는 용어로 1996년 지역명을 구단명에 포함시킨 완전지역연고제의 도입 이후 최초로 같은 연고지의 두 구단이 격돌하는 더비 경기다. 
 </head>
 <body>
   <header>
-    <h1>2.경기장 : 광주축구전용구장 (2020~ / 10,007석)</h1>
-    <img src="https://i.namu.wiki/i/9CUzS8HCJDrRJzlyHuh3J2FGaoy5bwJ7EBmh7s1QRNtQadHcdNyqXkaM1TpcfoK_5PEUd_4q850kbDfJtOltldfgt3xls_QfrfHIzgAHUQq2FzpoG_BhqqGK_CUG2NMLR9Q6ZMdZibgp1NVGvo_sZw.webp">
+    <h1>2.경기장 : 수원종합운동장 (11,808석)</h1>
+    <img src="https://th.bing.com/th/id/R.991faaaa22e420ba8039cccf756ec67c?rik=tEgcKm7%2bBdNveg&riu=http%3a%2f%2fojsfile.ohmynews.com%2fPHT_IMG_FILE%2f2019%2f0510%2fIE002495398_PHT.jpg&ehk=KNsL%2bPPpUGs7nR8YVvPcze6odhFxpggnFrV03RzeOw8%3d&risl=&pid=ImgRaw&r=0">
   </header>
   <main>
     <section>
       <h2>3.Key Players</h2>
       <div class="player-info">
-        <img src="https://i.namu.wiki/i/YHZFykxNTM4Jf6wwVFTLws0uLrTn-5Byy6ZJ3t1epbJQ2a3LLwTDTc8Gcmg1Hw82ClNl_96ERaHgjd9hZmY5SHgPp3x4vx5V9BtYieZbqoyNinhwOXG40-EVcNetxsZGtio_CjN16EjgTUM7tL0IrQ.webp"
+        <img src="https://i.namu.wiki/i/3SHv_gasF6Zrs4B-thWbVN5eGCJzUFE55x_Z6MA0KE3MjNEZl2YBDcdQf_ETCWPk3EREgBSR9QL_aUaNs5GI2FWrw8G344ouCblVk9qEFo8Myx41hDL_TUDzSq-9sHHq8q-q9xkOU99rSUw0AJXnRA.webp"
           alt="Player 1">
         <div>
-          <h3>안영규(주장)(Ahn Young-Gyu) (No. 6)</h3> <p>1989년 12월 4일 (34세) <br> 포지션 : 중앙 수비</p>
+          <h3>이용(주장)(Lee Yong) (No. 88)</h3> <p>1986년 12월 24일 (37세) <br> 포지션 : 라이트백</p>
           <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
-          <p>광주 FC K리그2: 2022</p>
+          <p>울산 현대 (2010~2016) 러시앤캐시컵: 2011</p>
+          <p>AFC 챔피언스 리그: 2012</p>
+          <p>상주 상무 FC (2015~2016) K리그 챌린지: 2015</p>
+          <p>전북 현대 모터스 (2017~2022) K리그1: 2017, 2018, 2019, 2020, 2021</p>
+          <p>K리그1 베스트 XI: 2014, 2015, 2018, 2019</p>
+          <p>FA컵: 2020</p>
           <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
-          <p>광주 FC: K리그2 베스트11</p>
-          <p>k리그2 MVP</p>
+          <p>울산 현대 (2010~2016) K리그 클래식 베스트 11: 2013</p>
+          <p>상주 상무 FC (2015~2016) K리그 챌린지 베스트 11: 2015</p>
+          <p>전북 현대 모터스 (2017~2022) K리그1 베스트 11: 2018, 2019</p>
+          <p>동아스포츠대상 프로축구 올해의 선수상: 2018</p>
         </div>
       </div>
       <div class="player-info">
-        <img src="https://i.namu.wiki/i/E74ZoJBtA6Sbaym0r4dpxjTQxW33Uj0DxvWM2VNdftbjSbjAHwjZ2ryF18aVLDTh-2rA-2PzkwM0tqwLFhbHzmzlQQ5LuRDclAcsIvWUrUT5x95ixgV9GJLOcs4H3TRIoDuTqgLlWfNpalqvyoRjDQ.webp">
+        <img src="https://i.namu.wiki/i/RQTII9i6yUkcTy_840XBf1hznrtKIUS0FKlnCDTF50qDO3NkKGBoz3dlkaoPC-f6y-5ttaaVJ1I4gssAiZExc-yciBj5E9y9Pph1rndEOV9IHYeYj7YQq7vNqa8K-rWJG-PY4bm07bRf0rkAdfbnMQ.webp">
         <div>
-          <h3>엄지성(Eom Ji-sung) (No. 7)</h3> <p>2002년 5월 9일 (22세) <br> 포지션 : 윙어, 세컨드 스트라이커, 공격형 미드필더</p>
+          <h3>이승우(부주장)(Lee Seung-woo) (No. 11)</h3> <p>1998년 1월 6일 (26세) <br> 포지션 : 윙어, 공격형 미드필더</p>
           <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
-          <p>광주 FC (2021~ ) K리그2: 2022</p>
-          <p>WAFF U-23 챔피언십: 2024</p>
+          <p>대한민국 U-23 축구 국가대표팀 아시안 게임 금메달: 2018</p>
           <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
-          <p>K리그 이달의 영플레이어상: 2021.08, 2023.08</p>
-          <p>K리그2 영플레이어상: 2022</p>
-          <p>K리그2 베스트11: 2022</p>
+          <p>아시아축구연맹(AFC) 올해의 유망주 상: 2017</p>
+          <p>폭스스포츠아시아 선정 자카르타·팔렘방 아시안 게임 남자 축구 베스트 XI: 2018</p>
+          <p>K리그 이달의 퍼포먼스상: 2022년 5월</p>
+          <p>게토레이 G MOMENT AWARD: 2022년 6월</p>
+          <p>K리그 이달의 선수상: 2022년 6월, 2023년 8월</p>
         </div>
       </div>
     </section>
     <section>
       <h2>4.Key Players move</h2>
       <h4>
-      <h3>1.안영규(주장)(Ahn Young-Gyu) (No. 6)</h3>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/_h4t60jPWLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <h3>2.엄지성(Moon Seon-min) (No. 11)</h3>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ShLVlx6RSIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>1.이용(주장)(Lee Yong) (No. 88)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/uXzaBjDa1js" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>2.이승우(부주장)(Lee Seung-woo) (No. 11)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/kNaTIonldsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </h4> 
     </section>
     <section>
-      <h5>Match Highlights</h5>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/k7xesiMuAhw" frameborder="0"
+      <h5>5.Match Highlights</h5>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/WhyHptNFKZc" frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
   </main>

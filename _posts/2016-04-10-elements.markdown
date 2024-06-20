@@ -1,91 +1,102 @@
 ---
 layout: post
-title:  "인천 유나이티드"
+title:  "김천상무 축구단"
 description: |
- 창단 :2003년<br>
- 연고지 :인천광역시<br>
- K리그1 소속의 프로 축구단<br>
- 우승 경력<br>
- K리그 준우승 (2005)<br>
- FA컵 준우승(2015)<br>
- 유명 선수 : 임중용, 정혁, 무고사 등
+ 창단 :2021년<br>
+ 연고 :경상북도 김천시<br> 
+ K리그1 소속 프로 축구단, 유일한 군경 구단<br>
+ 
+ 우승경력<br>
+ K리그2 우승 (2013, 2015, 2021, 2023)<br>
+ 유명 선수 출신:  조규성, 이동준, 원두재 등
 
-img: image-8.jpg
-color: FF6F00
-
+img: image-2.jpg
+color: 7E57C2
 ---
-<html> <head> <title>인천 유나이티드 정보</title> <style> .
-player-info { display: flex; align-items: center; margin-bottom: 20px; } .player-info img { width: 150px; height: 150px; margin-right: 20px; } .player-info h3 { font-size: 24px; margin: 0; } .player-info p { font-size: 16px; margin: 5px 0; } h1{
+<html>
+<head>
+  <title>Hyundai Motors Jeonbuk</title>
+  <style>
+    .player-info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .player-info img {
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+    }
+    .player-info h3 {
+      font-size: 24px;
+      margin: 0;
+    }
+    .player-info p {
+      font-size: 16px;
+      margin: 5px 0;
+    }
+    h1{
       font-size: 25px;
     }
-    h5 {
-    font-size: 24px; /* 폰트 크기 24px로 변경 */
-    }</style>
-    <h1>1.비전 및목표</h1><br>
-   1-1. 인천유나이티드는 '열정, 도전, 혁신'을 핵심 가치로 삼고 있습니다.<br>
-   1-2. 특히 젊은 선수들의 육성과 발전에 힘쓰며, 지역사회와 함께 성장하는 구단이 되고자 합니다.<br>
-   1-3. 선수와 팬, 지역사회가 함께 어우러지는 '열린 구단'을 지향하며, 지역 밀착형 활동을 통해 팬들과의 유대감을 강화하고 있습니다.<br>
-   1-4. 팬과 지역사회에 기쁨을 주고 스포츠 문화를 선도하는 클럽 되고자 합니다.<br>
-    <h1>2.라이벌 매치</h1><br>
-    <h1>2-1.서울 - 인경전</h1> <br>
-    경인 더비란 서울특별시를 연고로 하는 FC 서울과 인천광역시를 연고로 하는 인천 유나이티드 FC 간의 경기를 이르는 말양 팀 서포터즈 충돌은 슈퍼매치, 동해안 더비와 비교될 정도이다. <br>
-    경인 더비는 제발 내 눈에서 사라져라라는 생각으로 다투며 최근에 펼쳐진 경기에서 전반 종료 직전 제르소가 최준의 무리한 수비로 인해 넘어지고 이에 보복으로 완전히 밀치면서 레드카드로 퇴장당하면서 분위기가 더욱 격해지기 시작했으며, 특히 이 퇴장이 기점이 되어 전반까지 1-0이었던 스코어가 1-2로 뒤집히면서 경기가 서울의 역전승으로 끝났다.서울의 골키퍼 백종범이 인천의 마지막 코너킥을 수비해낸 직후 경기 종료 휘슬이 울리자, 인천 서포터즈들이 있는 골대 바로 뒤편 S석의 인천 서포터즈들을 향해 포효하며 양손을 흔드는 등 세리머니를 해 관중을 흥분시키긴 했지만,이 세리머니를 본 인천 서포터 한 명이 머플러를 던진 순간 S석의 인천 서포터즈들이 동시다발적으로 수많은 물병을 투척했다.<br>
-    <h1>2-2.수원 - 수인선더비</h1> <br>
-    수원 삼성 블루윙즈 또는 수원 FC와 인천 유나이티드와 간의 더비. 지하철 노선인 수인선을 기반으로 한 더비다.<br>
-    특히, 수원 삼성 블루윙즈와 인천 유나이티드의 경우 양팀 서포터즈간의 경쟁의식도 크다. 인천의 창단 초기 시절부터 수원 삼성과는 치열한 라이벌 의식이 존재한다.
-    2007년 수원 삼성의 외국인 포워드인 에두는 인천 유나이티드의 센터백 임중용에게 침뱉기로 논란을 일으켰다. 2007년 9월 22일 인천문학경기장에서 열린 수원과의 리그 경기에서 에두가 발을 들어서 임중용에게 가격을 했는데 이에 화가 난 임중용이 밀쳤고 에두는 침을 뱉었던 사건이다.  
-</head> <body> <header>
-<h1>3.경기장 : 인천축구전용경기장 (2012~ / 18,989석)</h1>
-<img src="https://i.namu.wiki/i/QcZzsmmyJTUKsb7GUBjwBPZnwZbHOhn2hili3n5fGjwuMZ2HEVqR_LoGl4_lCGH8jqtokyOvyUn-M8qvIFqWg9r-huVtYbatOxzRLqXLPnnB1lYoqCHTXX65OV3tTTzcfB1FvQvVjXex6wik8agO5Q.webp">
-</header>
-<main>
+  </style>
+  <h1>1.역사와 목표</h1><br>
+   1-1. 1984년 상무 축구단으로 창단했고 2021년 김천상무 정식 창단 했다.<br>
+   1-2. 국군체육부대 소속이며 관리는 김천시 하고있는 시민구단이다.<br>
+   1-3. 김천 상무 프로축구단의 비전은 "축구로 하나되는 행복한 김천"으로, 팬(시민)과의 화합과 지역사회 기여를 목표로 하고 있습니다.  <br>
+   1-4. 김천시의 스포츠 특화 도시로의 위상 제고와 지역의 체육 및 유소년 축구 발전에 기여하는 것입니다. <br>
+   1-5. 새로운 시즌을 맞아 선수단과 팬의 화합을 바탕으로 우승 목표 달성을 위해 노력하고 있습니다. <br><br>
+</head>
+<body>
+  <header>
+    <h1>2.경기장 : 김천종합운동장 (2021~ / 25,000석)</h1>
+    <img src="https://i.namu.wiki/i/iKFwSAUcngdR_Abn35gLwQXUXNDbtom0IUWABucVpMkXISUoPwhKeoBuoFrJuvGjeSIhLGSzkNGf4jvbvFU1--TWXUocTMUMg33eFy1daUkOvZOl-wvZyG5CIpN5eNxQI0o_dDVmQH62j6xfbvt9gg.webp">
+  </header>
+  <main>
     <section>
-      <h2>4.Key Players</h2>
+      <h2>3.Key Players</h2>
       <div class="player-info">
-        <img src="https://i.namu.wiki/i/GqAyo5i7snrqCks07DboMu4h5PQcWu2iDqzctx8Tx25yR1Rk6dbhAKB3XdSGObPn49TQ3KGIKbMc8QwxPm_8IFNWhx3GLXEmcJZfP9TJl66KX7i-9YBZgw5V-hJ8zXZKj9c6eReAlS0IuYLjPClWyA.webp"
+        <img src="https://i.namu.wiki/i/4ROCNdj4peIMagC_VJQMosCbQqOZP4EGQVx6Y1Q4vE-n83hrxZd2UytH1THxW2PbS3doFBMWDSMrtXcKD3UsL3gmGjDv1wFSe13ZWXOTVoKuOD3a2Ut2T3yHNLwnBEbQq-MxrfLxoQt8zbJAFLlpHg.webp"
           alt="Player 1">
         <div>
-          <h3>이명주(주장)( Lee Myung-Joo) (No. 5)</h3> <p>1991년 9월 25일 (32세) <br> 포지션 : 중앙 미드필더, 수비형 미드필더, 공격형 미드필더</p> 
+          <h3>3-1.김현욱(Kim Hyeon-ug) (No. 3)</h3> <p>1995년 6월 22일 (28세) <br> 포지션 : 공격형 미드필더, 윙어</p>
           <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
-          <p>포항 스틸러스 K리그1: 2013</p>
-          <p>포항 스틸러스 FA컵: 2012, 2013</p>
-          <p>알 아인 FC 아라비안 걸프 리그: 2014-15</p>
-          <p>아산 무궁화 FC K리그2: 2018</p>
-          <p>대한민국 축구 국가대표팀 AFC 아시안컵 준우승: 2015</p> 
-          <p><strong style="font-size: 1.2em;">개인 수상</strong></p> 
-          <p>K리그1 영플레이어상 : 2012</p> 
-          <p>K리그1 베스트 XI: 2013</p> 
+          <p>전남 드래곤즈 대한축구협회 FA컵 우승: 2021</p>
+          <p>김천 상무 FC K리그2 우승: 2023</p>
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
+          <p>K리그2 베스트 11 미드필더부분 수상</p>
         </div>
       </div>
       <div class="player-info">
-        <img src="https://i.namu.wiki/i/dz5Z6GvktfZ5iYv6VejChLp11R5Mn5SlGNnhICvE_RQT7FS6k2ngmsqrMlLqgoMK-qp3oBTO3k2Nl2WRcoe_KkhCneBjJxx7UKyPQBElSmvzzkGCG-AqiANrRpO8tOrEHSjGDFJ-iSonD7WhqYDZNA.webp">
+        <img src="https://i.namu.wiki/i/FCNcTczlOE692u1HjuAtel6I6LA1mZG4oNErO4QpvxfZ1SUrF2fmR5Wqb9l31HbnlIgtBjeKJfCGFS73BB4mPk1r1wXVd1e7gX7ecdbUCnTnK7PW-_XLuXhGIdwaawICH-nTWkikA68Hzv7YVgiFkg.webp">
         <div>
-          <h3>무고사(Stefan Mugoša) (No. 9)</h3> <p>1992년 2월 26일 (32세) <br> 포지션 :스트라이커</p>
-          <p><strong style="font-size: 1.2em;">대회기록</strong></p> 
-          <p>FK 부두치노스트 포드고리차 (2011~2013) : 몬테네그로 퍼스트 리그: 2011-12</p> 
-          <p>몬테네그로 컵: 2012-13</p> 
-          <p>FC 셰리프 티라스폴 (2017~2018) : 디비지아 나치오날러: 2017</p> 
-          <p>비셀 고베 (2022~2023) : J1리그: 2023</p>
-          <p><strong style="font-size: 1.2em;">개인수상</strong></p> 
-          <p>몬테네그로 퍼스트 리그 득점왕: 2013-14</p> 
-          <p>몬테네그로 축구 협회 올해의 선수 4인: 2018</p> 
-          <p>몬테네그로 축구 협회 올해의 선수: 2019, 2020</p> 
-          <p>K리그1 이달의 선수상: 2020.9, 2022.2-3, 2022.4</p>  
+          <h3>3-2.이동경(Lee Dong-Gyeong) (No. 34)</h3> <p>1997년 9월 20일 (26세) <br> 포지션 : 공격형 미드필더, 윙어</p>
+          <p><strong style="font-size: 1.2em;">대회 기록</strong></p>
+          <p>울산현대 AFC U-23 챔피언십 우승: 2020</p>
+          <p>AFC 챔피언스리그 우승 : 2020</p>
+          <p>FA컵 준우승 : 2020</p>
+          <p>샬케04 분데스리가 우승 : 2021-22</p>
+          <p>K리그 우승 1회 :2023</p>
+          <p><strong style="font-size: 1.2em;">개인 수상</strong></p>
+          <p>7월의 G MOMENT AWARD(게토레이 승리의 순간) : 2020</p>
+          <p>AFC U-23 베스트11: 2020</p>
+          <p>도쿄 올림픽 남자축구 베스트11</p>
+          <p>K리그 이달의 선수상 : 2021년 10월</p>
         </div>
       </div>
     </section>
     <section>
-      <h2>5.Key Players move</h2>
+      <h2>4.Key Players move</h2>
       <h4>
-      <h3>1.이명주(주장)(Lee Myung-Joo) (No. 5)</h3>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/EWPTonaDdAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <h3>2.무고사(Stefan Mugoša) (No. 9)</h3>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/wlr_p3sUT24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>4-1.김현욱(Kim Hyeon-ug) (No. 3)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/7zwgQFvwhrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h3>4-2.이동경(Lee Dong-Gyeong) (No. 34)</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/iEtYMvEdgEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </h4> 
     </section>
     <section>
-      <h5>6.Match Highlights</h5>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/5N31tgrNTfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h5>5.Match Highlights</h5>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/F6TFDf7WFjU" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
   </main>
 </body>
