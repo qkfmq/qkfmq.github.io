@@ -91,4 +91,3 @@ player-info { display: flex; align-items: center; margin-bottom: 20px; } .player
     </section>
   </main>
 </body>
-</html>

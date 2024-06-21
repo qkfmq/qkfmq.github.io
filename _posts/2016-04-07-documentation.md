@@ -106,7 +106,6 @@ color: 'FF0000'
     </section>
   </main>
 </body>
-</html>
 
 
 

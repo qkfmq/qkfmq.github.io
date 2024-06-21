@@ -100,4 +100,3 @@ color: 'FFD700'
     </section>
   </main>
 </body>
-</html>
