@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+
 // Our variables
 $base-font-family: 'Open Sans', sans-serif;
 $head-font-family: 'Open Sans', sans-serif;
@@ -26,45 +27,7 @@ $content-width:    900px;
 $on-palm:          600px;
 $on-laptop:        1000px;
 
-#grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 20px;
-  }
-  
-  .item {
-    background-color: #{{post.color}};
-  }
-  #grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 20px;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .box {
-    background-color: #{{post.color}};
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .box .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .box .feat-image {
-    max-width: 100%;
-    height: auto;
-  }
-    
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -78,6 +41,10 @@ $on-laptop:        1000px;
         @content;
     }
 }
+
+
+
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

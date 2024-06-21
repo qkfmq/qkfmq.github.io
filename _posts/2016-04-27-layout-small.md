@@ -102,7 +102,7 @@ color: 43A047
       </h4> 
     </section>
     <section>
-      <h1>6.Match Highlights</h1>
+      <h5 style="font-size: 20px;">6.Match Highlights</h5>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/AlXdJ2HAEhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
   </main>

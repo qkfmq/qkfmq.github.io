@@ -92,7 +92,7 @@ color: 'FFD700'
       </h4> 
     </section>
     <section>
-      <h5>Match Highlights</h5>
+      <h5 style="font-size: 20px;">Match Highlights</h5>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/k7xesiMuAhw" frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
