@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Example Post 3
 title:  "K리그"
 description: |
  영문: K LEAGUE<br>

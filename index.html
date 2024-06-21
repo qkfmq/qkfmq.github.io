@@ -1,22 +1,84 @@
 ---
 layout: default
 ---
-<div id="container">
-<div id="grid" data-columns class="cols">
-    {% for post in site.posts %}
-    <div class="box" style="background-color:#{{post.color}}">
-       {% if post.img %}
-          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-       {% endif %}
-          <div class="container">
-            <h4>{{post.title}}</h4>
-            <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
-        </div>   
-    </div>
-   {% endfor %}
+<style>
+  #container {
+    width: 100%; /* Full width of the window */
+    max-width: 1200px; /* Maximum width */
+    height: 800px; /* Fixed height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+  
+  .contents {
+    padding: 0; /* Remove padding if not needed */
+  }
 
-</div>
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive columns */
+    grid-auto-rows: minmax(200px, auto); /* Adjust row height as needed */
+    gap: 0; /* Remove gap between grid items */
+  }
+
+  .box {
+    background-color: #f0f0f0; /* Default background color */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 5px; /* Rounded corners */
+    overflow: hidden; /* Ensure content doesn't overflow the box */
+  }
+
+  .feat-image {
+    width: 100%; /* Ensure images take up full width of their container */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .container h4 {
+    margin: 10px 0; /* Adjust margin as needed */
+    font-size: 1.2em; /* Adjust font size as needed */
+  }
+
+  .container p {
+    margin: 0 0 10px; /* Adjust margin as needed */
+    font-size: 1em; /* Adjust font size as needed */
+  }
+
+  .action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .action a {
+    text-decoration: none; /* Remove underline from links */
+    color: #000; /* Link color */
+  }
+
+  .action a:hover {
+    color: #007bff; /* Hover color for links */
+  }
+</style>
+
+<div id="container">
+  <div class="contents">
+    <div id="grid">
+      {% for post in site.posts %}
+      <div class="box" style="background-color:#{{post.color}}">
+        {% if post.img %}
+        <img class="feat-image" src="{{ "/images/" | prepend: site.baseurl | append: post.img }}" alt="{{post.title}}">
+        {% endif %}
+        <div class="container">
+          <h4>{{post.title}}</h4>
+          <p>{{ post.description | truncate: 300 }}</p> <!-- Limit to 100 characters -->
+          <div class="action">{{ post.date | date: '%B %d, %Y' }}
+            <a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
 
 <script src="{{site.baseurl}}/js/salvattore.min.js"></script>
