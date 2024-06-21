@@ -36,7 +36,7 @@ player-info { display: flex; align-items: center; margin-bottom: 20px; } .player
     수원 삼성 블루윙즈 또는 수원 FC와 인천 유나이티드와 간의 더비. 지하철 노선인 수인선을 기반으로 한 더비다.<br>
     특히, 수원 삼성 블루윙즈와 인천 유나이티드의 경우 양팀 서포터즈간의 경쟁의식도 크다. 인천의 창단 초기 시절부터 수원 삼성과는 치열한 라이벌 의식이 존재한다.
     2007년 수원 삼성의 외국인 포워드인 에두는 인천 유나이티드의 센터백 임중용에게 침뱉기로 논란을 일으켰다. 2007년 9월 22일 인천문학경기장에서 열린 수원과의 리그 경기에서 에두가 발을 들어서 임중용에게 가격을 했는데 이에 화가 난 임중용이 밀쳤고 에두는 침을 뱉었던 사건이다.  
-</head> <body> <header>
+ <body> <header>
 <h1>3.경기장 : 인천축구전용경기장 (2012~ / 18,989석)</h1>
 <img src="https://i.namu.wiki/i/QcZzsmmyJTUKsb7GUBjwBPZnwZbHOhn2hili3n5fGjwuMZ2HEVqR_LoGl4_lCGH8jqtokyOvyUn-M8qvIFqWg9r-huVtYbatOxzRLqXLPnnB1lYoqCHTXX65OV3tTTzcfB1FvQvVjXex6wik8agO5Q.webp">
 </header>
