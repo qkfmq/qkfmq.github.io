@@ -25,27 +25,27 @@ color: 1976D2
     <th>기록</th> 
   </tr> 
   <tr> 
-    <td>득점</td> 
+    <td>최다 득점</td> 
     <td>이동국</td>
     <td>214</td> 
   </tr>
   <tr>
-    <td>도움</td>
+    <td>최다 어시스트</td>
     <td>염기훈</td>
     <td>92</td>
   </tr> 
 <tr> 
-  <td>공격 포인트</td>
+  <td>역대 공격 포인트</td>
     <td>이동국</td> 
     <td>288</td> 
   </tr>
   <tr> 
-    <td>출장 경기</td> 
+    <td>최다 출장 경기</td> 
     <td>김병지</td> 
     <td>595</td> 
   </tr> 
   <tr> 
-    <td>무실점 경기</td> 
+    <td>최다 무실점 경기</td> 
     <td>김병지</td> 
     <td>189</td> 
 </tr> 
